@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="type_search">Type your search</string>
+    <string name="title_activity_country_detail">Country Detail</string>
+    <string name="make_my_home">Make my home</string>
+    <string name="calculate_distance">Calculate distance</string>
+</resources>
